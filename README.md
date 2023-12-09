@@ -1,2 +1,2 @@
 # keyboard
- ianchzhu.github.io/keyboard
+ http://ianchzhu.github.io/keyboard/
